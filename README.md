@@ -1,5 +1,2 @@
 # MarketingApp
-
-
-Test 
-test10
+GrowBuzz is web Application which helps to handle on sales life cycle
